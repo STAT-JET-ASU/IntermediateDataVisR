@@ -1,0 +1,89 @@
+---
+title: "R Graphics Cookbook Chapter 6"
+author: "NAME"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+### Chapter 6. Summarized Data Distributions
+
+```{r}
+library(ggplot2)
+library(gcookbook)
+```
+
+### Section 6.1. Making a Basic Histogram
+
+```{r}
+ 
+```
+
+### Section 6.2. Making Multiple Histograms from Grouped Data
+
+```{r}
+
+```
+
+### Section 6.3. Making a Density Curve
+
+```{r}
+
+```
+
+### Section 6.4. Making Multiple Density Curves from Grouped Data
+
+```{r}
+ 
+```
+
+### Section 6.5. Making a Frequency Polygon
+
+```{r}
+
+```
+
+### Section 6.6. Making a Basic Box Plot
+
+```{r}
+
+```
+
+### Section 6.7. Adding Notches to a Box Plot
+
+```{r}
+
+```
+
+### Section 6.8. Adding Means to a Box Plot
+
+```{r}
+
+```
+
+### Section 3.9. Making a Violin Plot
+
+```{r}
+
+```
+
+### Section 6.10. Making a Dot Plot
+
+```{r}
+
+```
+
+### Section 6.11. Making Multiple Dot Plots for Grouped Data
+
+```{r}
+
+```
+
+### Section 6.12. Making a Density Plot of Two-Dimensional Data
+
+```{r}
+
+```
+
+
+<hr>
+END!

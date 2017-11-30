@@ -1,0 +1,125 @@
+---
+title: "R Graphics Cookbook Chapter 8"
+author: "NAME"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+### Chapter 8. Axes
+
+```{r}
+library(ggplot2)
+library(gcookbook)
+```
+
+### Section 8.1. Swapping X- and Y- Axes
+
+```{r}
+ 
+```
+
+### Section 8.2. Setting the Range of a Continuous Axis
+
+```{r}
+
+```
+
+### Section 8.3. Reversing a Continuous Axis
+
+```{r}
+
+```
+
+### Section 8.4. Changing the Order of Items on a Categorial Axis
+
+```{r}
+ 
+```
+
+### Section 8.5. Setting the the Scaling Ratio of the X- and Y-Axes
+
+```{r}
+
+```
+
+### Section 8.6. Setting the Position of Tick Marks
+
+```{r}
+
+```
+
+### Section 8.7. Removing Tick Marks and Labels
+
+```{r}
+
+```
+
+### Section 8.8. Changing the Text of Tick Labels
+
+```{r}
+
+```
+
+### Section 8.9. Changing the Appearance of Tick Labels
+
+```{r}
+
+```
+
+### Section 8.10. Changing the Text of Axis Labels
+
+```{r}
+
+```
+
+### Section 8.11. Removing Axis Labels
+
+```{r}
+
+```
+
+### Section 8.12. Changing the Appearance of Axis Labels
+
+```{r}
+
+```
+
+### Section 8.13. Showing Lines Along the Axis
+
+```{r}
+
+```
+
+### Section 8.14. Using a Logarhithmic Axis
+
+```{r}
+
+```
+
+### Section 8.15. Adding Ticks for a Logarhithmic Axis
+
+```{r}
+
+```
+
+### Section 8.16. Making a Circular Graph
+
+```{r}
+
+```
+
+### Section 8.17. Using Dates on an Axis
+
+```{r}
+
+```
+
+### Section 8.18. Using Relative Times on an Axis
+
+```{r}
+
+```
+
+
+<hr>
+END!

@@ -1,0 +1,71 @@
+---
+title: "R Graphics Cookbook Chapter 4"
+author: "NAME"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+### Chapter 4. Line Graphs
+
+```{r}
+library(ggplot2)
+library(gcookbook)
+```
+
+### Section 4.1. Making a Basic Line Plot
+
+```{r}
+ 
+```
+
+### Section 4.2. Adding Point to a Line Graph
+
+```{r}
+
+```
+
+### Section 4.3. Making a Line Graph with Multiple Lines
+
+```{r}
+
+```
+
+### Section 4.4. Changing the Appearance of Lines
+
+```{r}
+ 
+```
+
+### Section 4.5. Changing the Appearance of Points
+
+```{r}
+
+```
+
+### Section 4.6. Making a Graph with Shaded Areas
+
+```{r}
+
+```
+
+### Section 4.7. Making a Stacked Area Graph
+
+```{r}
+
+```
+
+### Section 4.8. Making a Proportional Stacked Area Graph
+
+```{r}
+
+```
+
+### Section 4.9. Adding a Confidence Region
+
+```{r}
+
+```
+
+
+<hr>
+END!

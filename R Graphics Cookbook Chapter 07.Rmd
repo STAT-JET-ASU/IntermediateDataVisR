@@ -1,0 +1,65 @@
+---
+title: "R Graphics Cookbook Chapter 7"
+author: "NAME"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+### Chapter 7. Annotations
+
+```{r}
+library(ggplot2)
+library(gcookbook)
+```
+
+### Section 7.1. Adding Text Annotations
+
+```{r}
+ 
+```
+
+### Section 7.2. Using Mathematical Expressions in Annotations
+
+```{r}
+
+```
+
+### Section 7.3. Adding Lines
+
+```{r}
+
+```
+
+### Section 7.4. Adding Line Segments and Arrows
+
+```{r}
+ 
+```
+
+### Section 7.5. Adding a Shaded Rectangle
+
+```{r}
+
+```
+
+### Section 7.6. Highlighting an Item
+
+```{r}
+
+```
+
+### Section 7.7. Adding Error Bars
+
+```{r}
+
+```
+
+### Section 7.8. Adding Annotations to Individual Facets
+
+```{r}
+
+```
+
+
+<hr>
+END!

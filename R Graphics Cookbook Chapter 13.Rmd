@@ -1,0 +1,137 @@
+---
+title: "R Graphics Cookbook Chapter 13"
+author: "NAME"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+### Chapter 13. Miscellaneous Graphs
+
+```{r}
+library(ggplot2)
+library(gcookbook)
+```
+
+### Section 13.1. Making a Correlation Matrix
+
+```{r}
+ 
+```
+
+### Section 13.2. Plotting a Function
+
+```{r}
+
+```
+
+### Section 13.3. Shading a Subregion Under a Function Curve
+
+```{r}
+
+```
+
+### Section 13.4. Creating a Network Graph
+
+```{r}
+ 
+```
+
+### Section 13.5. Using Text Labels in a Network Graph
+
+```{r}
+
+```
+
+### Section 13.6. Creating a Heat Map
+
+```{r}
+
+```
+
+### Section 13.7. Creating a Three-Dimensional Scatter Plot
+
+```{r}
+
+```
+
+### Section 13.8. Adding a Prediction Surface to a Three-Dimensional Plot
+
+```{r}
+
+```
+
+### Section 13.9. Saving a Three-Dimensional Plot
+
+```{r}
+
+```
+
+### Section 13.10. Animating a Three-Dimensional Plot
+
+```{r}
+
+```
+
+### Section 13.11. Creating a Dendrogram
+
+```{r}
+
+```
+
+### Section 13.12. Creating a Vector Field
+
+```{r}
+
+```
+
+### Section 13.13. Creating a QQ Plot
+
+```{r}
+
+```
+
+### Section 13.14. Creating a Plot of an Empirical Cumulative Distribution Function
+
+```{r}
+
+```
+
+### Section 13.15. Creating a Mosaic Plot
+
+```{r}
+
+```
+
+### Section 13.16. Creating a Pie Chart
+
+```{r}
+
+```
+
+### Section 13.17. Creating a Map
+
+```{r}
+
+```
+
+### Section 13.18. Creating a Chloropleth Map
+
+```{r}
+
+```
+
+### Section 13.19. Making a Map with a Clean Background
+
+```{r}
+
+```
+
+### Section 13.20. Rceating a Map from a Shapefile
+
+```{r}
+
+```
+
+
+<hr>
+END!

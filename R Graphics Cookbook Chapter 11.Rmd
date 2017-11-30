@@ -1,0 +1,41 @@
+---
+title: "R Graphics Cookbook Chapter 11"
+author: "NAME"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+### Chapter 11. Facets
+
+```{r}
+library(ggplot2)
+library(gcookbook)
+```
+
+### Section 11.1. Splitting Data into Subsets with Facets
+
+```{r}
+ 
+```
+
+### Section 11.2. Using Facets with Different Axes
+
+```{r}
+
+```
+
+### Section 11.3. Changing the Text of Facet Labels
+
+```{r}
+
+```
+
+### Section 11.4. Changing the Appearance of Facet Labels and Headers
+
+```{r}
+ 
+```
+
+
+<hr>
+END!

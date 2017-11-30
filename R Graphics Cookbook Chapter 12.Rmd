@@ -1,0 +1,59 @@
+---
+title: "R Graphics Cookbook Chapter 12"
+author: "NAME"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+### Chapter 12. Using Colors in Plots
+
+```{r}
+library(ggplot2)
+library(gcookbook)
+```
+
+### Section 12.1. Setting the Colors in Objects
+
+```{r}
+ 
+```
+
+### Section 12.2. Mapping Variables to Colors
+
+```{r}
+
+```
+
+### Section 12.3. Using a Different Palette for a Discrete Variable
+
+```{r}
+
+```
+
+### Section 12.4. Using a Manually Defined Palette for a Discrete Variable
+
+```{r}
+ 
+```
+
+### Section 12.5. Using a Colorblind-Friendly Palette
+
+```{r}
+
+```
+
+### Section 12.6. Using a Manually Defined Palette for a Continuous Variable
+
+```{r}
+
+```
+
+### Section 12.7. Coloring a Shaded Region Based on Value
+
+```{r}
+
+```
+
+
+<hr>
+END!

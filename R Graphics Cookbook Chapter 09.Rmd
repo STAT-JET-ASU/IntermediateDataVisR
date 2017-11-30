@@ -1,0 +1,53 @@
+---
+title: "R Graphics Cookbook Chapter 9"
+author: "NAME"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+### Chapter 9. Controlling the Overall Appearance of Graphs
+
+```{r}
+library(ggplot2)
+library(gcookbook)
+```
+
+### Section 9.1. Setting the Title of a Graph
+
+```{r}
+ 
+```
+
+### Section 9.2. Changing the Appearance of Text
+
+```{r}
+
+```
+
+### Section 9.3. Using Themes
+
+```{r}
+
+```
+
+### Section 9.4. Changing the Appearance of Theme Elements
+
+```{r}
+ 
+```
+
+### Section 9.5. Creating Your Own Themes
+
+```{r}
+
+```
+
+### Section 9.6. Hiding Grid Lines
+
+```{r}
+
+```
+
+
+<hr>
+END!

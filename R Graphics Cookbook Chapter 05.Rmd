@@ -1,0 +1,95 @@
+---
+title: "R Graphics Cookbook Chapter 5"
+author: "NAME"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+### Chapter 5. Scatter Plots
+
+```{r}
+library(ggplot2)
+library(gcookbook)
+```
+
+### Section 5.1. Making a Basic Scatterplot
+
+```{r}
+ 
+```
+
+### Section 5.2. Grouping Data Points by a Variable Using Shape or Color
+
+```{r}
+
+```
+
+### Section 5.3. Using Different Point Shapes
+
+```{r}
+
+```
+
+### Section 5.4. Mapping a Continuous Variable to Color or Size
+
+```{r}
+ 
+```
+
+### Section 5.5 Dealing with Overplotting
+
+```{r}
+
+```
+
+### Section 5.6. Adding Fitted Regression Model Lines
+
+```{r}
+
+```
+
+### Section 5.7. Adding Fitted Lines from an Existing Model
+
+```{r}
+
+```
+
+### Section 5.8. Adding Fitted Lines from Multiple Existing Models
+
+```{r}
+
+```
+
+### Section 5.9. Adding Annotations with Model Coefficients
+
+```{r}
+
+```
+
+### Section 5.10. Adding Marginal Rugs to a Scatterplot
+
+```{r}
+
+```
+
+### Section 5.11. Labeling Point in a Scatterplot
+
+```{r}
+
+```
+
+### Section 5.12. Creating a Balloon Plot
+
+```{r}
+
+```
+
+### Section 5.13. Making a Scatterplot Matrix
+
+```{r}
+
+```
+
+
+<hr>
+END!
