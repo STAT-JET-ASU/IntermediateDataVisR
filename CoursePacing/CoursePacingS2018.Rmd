@@ -112,4 +112,4 @@ MathJax.Hub.Config({
 * Create and submit an R Markdown report that replicates Part 4 of the module.
 * Ths assignment is due @ 5pm on Thursday, May 10 (last day of exams).
 
-## Your independent study course complete!
+## Your independent study course is complete!
