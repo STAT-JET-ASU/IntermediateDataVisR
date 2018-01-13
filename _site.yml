@@ -1,0 +1,23 @@
+
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "Data Science 1"
+  left:
+    - text: "Resources"
+      href: https://jillthomley.github.io/resources.html
+    - text: "My Schedule"
+      href: https://jillthomley.github.io/schedule.html
+    
+  right:
+    - text: "Jill E. Thomley"
+      href: https://jillthomley.github.io   
+    - icon: fa-github fa-lg
+      href: https://github.com/STAT-JET-ASU/DataScience1/         
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    include:
+      after_body: footer.html
+    css: alans.css  
