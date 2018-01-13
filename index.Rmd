@@ -4,7 +4,7 @@ title: "Welcome!"
 
 * * *
 
-* The course syllabus can be found in the [`Syllabus`](./Syllabus/SyllabusS2018.html) directory of the Intermediate Statistical Graphing repository.
+* The course syllabus can be found in the [`Syllabus`](./Syllabus/SyllabusS2018.html) directory of the Intermediate Statistical Graphing repository. BLAH
 
 * The weekly course schedule can be found in the [`CoursePacing`](./CoursePacing/CoursePacingS2018.html) directory of the Intermediate Statistical Graphing repository.
 
