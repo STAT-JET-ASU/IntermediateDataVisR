@@ -43,7 +43,7 @@ Students will...
 
 The only way to learn statistics is to **DO** statistics, which includes statistical software. Reading the textbook, learning the language, and practicing exercises using real data are critical to your learning and success. Class activities and assessments have been structured with these principles in mind. It will be easier to participate if you acquire some familiarity with the vocabulary and methods before we start to discuss and use them. You must "speak the language" (statistics and R) to effectively demonstrate your knowledge.  
 
-*  60% of the course grade will come from the twelve textbook assignments (6% each)
+*  60% of the course grade will come from the twelve textbook assignments (5% each)
 *  16% of the course grade will come from the four introductory DataCamp modules (4% each)
      + Data Visualization in R
      + Data Visualizatin with ggplot2 (Part 1)
