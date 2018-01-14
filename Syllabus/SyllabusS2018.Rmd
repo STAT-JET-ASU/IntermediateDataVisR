@@ -54,9 +54,9 @@ The only way to learn statistics is to **DO** statistics, which includes statist
      + Visualizing Time Series Data in R
      + Working with Geospatial Data in R
 
-Grades will be kept on AsULearn. You should monitor your grades throughout the term to make sure they appear to be correct and complete. Feel free to inquire about your grades at any time.       
+This course uses the standard 10-point +/- grading scale (93--100 = A, 90--92 = A--, 87--89 = B+, etc.). All grades will be kept on [AsULearn](https://asulearn.appstate.edu/). You should monitor your grades throughout the term to make sure they appear to be correct and complete. Feel free to inquire about your grades at any time. You will have an opportunity to revise and resubmit Exam 1 and Exam 2.
 
-The [Course Schedule](../CoursePacing/CoursePacingS2018.html) has all course assignments and due dates.
+The [Course Schedule](../CoursePacing/CoursePacingS2018.html) contains all assignments and due dates.
 
 
 **Computers and Software**
