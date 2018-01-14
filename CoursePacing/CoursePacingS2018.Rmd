@@ -21,6 +21,7 @@ MathJax.Hub.Config({
 * You do not need to purchase a text for this course.
 * Access the [DataCamp](https://datacamp.com) assignments via [AsULearn](https://asulearn.appstate.edu).
 * Each week begins on Monday. Assignments are due @ 11pm Sunday unless otherwise indicated.
+* Please let the instructor know if you have previously completed any of the DataCamp assignments.
 ```
 
 
