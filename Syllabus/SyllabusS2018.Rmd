@@ -1,5 +1,5 @@
 ---
-title: "STT 3500---Intermediate Statistical Graphing---Syllabus"
+title: "STT 3500 Intermediate Statistical Graphing --- Syllabus"
 author: ''
 date: "Spring 2018"
 output: 
