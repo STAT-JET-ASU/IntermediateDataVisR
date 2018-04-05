@@ -1,0 +1,116 @@
+---
+title: "STT 3500 Intermediate Statistical Graphing --- Schedule"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+    css: "../css/style.css"
+---
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+
+<hr>
+
+```{block, note-text, type='rmdnote'}
+* You do not need to purchase a text for this course.
+* Access the [DataCamp](https://datacamp.com) assignments via [AsULearn](https://asulearn.appstate.edu).
+* Each week begins on Monday. Assignments are due @ 11pm Sunday unless otherwise indicated.
+* Please let the instructor know if you have previously completed any of the DataCamp assignments.
+```
+
+
+## Week 01 (Jan 15) {-}
+
+* Complete _Data Visualization in R_ on [DataCamp](https://datacamp.com), via [AsULearn](https://asulearn.appstate.edu).
+
+
+ 
+## Week 02 (Jan 22) {-}
+
+* Complete _Data Visualizatin with `ggplot2` (Part 1)_ on [DataCamp](https://datacamp.com), via [AsULearn](https://asulearn.appstate.edu).
+* Complete and submit the compiled `HTML` for Chapter 02 in _[R Graphics Cookbook](http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate)_.
+
+
+## Week 03 (Jan 29) {-}
+
+* Complete _Data Visualizatin with `ggplot2` (Part 2)_ on [DataCamp](https://datacamp.com), via [AsULearn](https://asulearn.appstate.edu).
+* Complete and submit the compiled `HTML` for Chapter 03 in _[R Graphics Cookbook](http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate)_.
+
+## Week 04 (Feb 05) {-}
+
+* Complete and submit the compiled `HTML` for Chapter 04 in _[R Graphics Cookbook](http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate)_.
+
+
+## Week 05 (Feb 12) {-}
+
+* Complete and submit the compiled `HTML` for Chapter 05 in _[R Graphics Cookbook](http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate)_.
+
+
+## Week 06 (Feb 19) {-}
+
+* Complete _Data Visualizatin with `ggplot2` (Part 3)_ on [DataCamp](https://datacamp.com), via [AsULearn](https://asulearn.appstate.edu).
+* Complete and submit the compiled `HTML` for Chapter 06 in _[R Graphics Cookbook](http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate)_. 
+
+
+## Week 07 (Feb 26) {-}
+
+* Complete and submit the compiled `HTML` for Chapter 07 in _[R Graphics Cookbook](http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate)_.
+* Ths assignment is due @ 11pm on Sunday, March 11 (the end of Spring Break).
+
+
+## Spring Break (Mar 05) {-}
+
+* There are no assignments due this week. Time to get caught up if you're behind!
+
+
+## Week 08 (Mar 12) {-}
+
+* Complete and submit the compiled `HTML` for Chapter 08 in _[R Graphics Cookbook](http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate)_.
+
+
+## Week 09 (Mar 19) {-}
+
+* Complete and submit the compiled `HTML` for Chapter 09 in _[R Graphics Cookbook](http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate)_.
+
+
+## Week 10 (Mar 26) {-}
+
+* Complete and submit the compiled `HTML` for Chapter 10 in _[R Graphics Cookbook](http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate)_.
+
+
+## Week 11 (April 02) {-}
+
+* Complete and submit the compiled `HTML` for Chapter 11 in _[R Graphics Cookbook](http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate)_.
+* Complete and submit the compiled `HTML` for Chapter 12 in _[R Graphics Cookbook](http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate)_.
+
+
+## Week 12 (Apr 09) {-}
+
+* Complete and submit the compiled `HTML` for Chapter 13 in _[R Graphics Cookbook](http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate)_.
+
+
+## Week 13 (Apr 16) {-}
+
+* Complete _Communicating with Data in the Tidyverse_ on [DataCamp](https://datacamp.com), via [AsULearn](https://asulearn.appstate.edu).
+* Create and submit your own version of the R Markdown report from this module.
+
+
+## Week 14 (Apr 23) {-}
+
+* Complete _Visualizing Time Series Data in R_ on [DataCamp](https://datacamp.com), via [AsULearn](https://asulearn.appstate.edu).
+* Create and submit an R Markdown report that generates the case study plots.
+
+
+## Week 15 (April 30; May 03 is Reading Day) {-}
+
+* Complete _Working with Geospatial Data in R_ on [DataCamp](https://datacamp.com), via [AsULearn](https://asulearn.appstate.edu).
+* Create and submit an R Markdown report that replicates Part 4 of the module.
+* Ths assignment is due @ 5pm on Thursday, May 10 (last day of exams).
+
+## Your independent study course is complete!
