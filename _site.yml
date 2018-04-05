@@ -4,10 +4,10 @@ output_dir: "."
 navbar:
   title: "Intermediate Statistical Graphing"
   left:
-    - text: "Resources"
-      href: https://jillthomley.github.io/resources.html
     - text: "My Schedule"
       href: https://jillthomley.github.io/schedule.html
+    - text: "Arnholt's Computing Resources"
+      href: https://alanarnholt.github.io/resources.html
     
   right:
     - text: "Jill E. Thomley"
