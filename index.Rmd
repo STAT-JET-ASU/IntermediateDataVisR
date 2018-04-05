@@ -4,17 +4,12 @@ title: "Welcome!"
 
 * * *
 
-* The course syllabus can be found in the [`Syllabus`](./Syllabus/SyllabusS2018.html) directory of the Intermediate Statistical Graphing repository.
+* [Course Syllabus](./Syllabus/SyllabusS2018.html)
 
-* The weekly course schedule can be found in the [`Schedule`](./Schedule/ScheduleS2018.html) directory of the Intermediate Statistical Graphing repository.
+* [Course Schedule](./Schedule/ScheduleS2018.html)
+
+* [ASU RStudio Server](https://mathr.math.appstate.edu)
 
 * Your course grades and all [DataCamp](https://www.datacamp.com/home) assignments should be accessed via [AsULearn](https://asulearn.appstate.edu/).
-
-* [ASU RStudio Server](https://mathr.math.appstate.edu) (you must be registered in the course to access the server)
-
-* [Flow Control](../STT3851ClassRepo/Rmarkdown/FlowControl.html) (via [Alan Arnholt](https://alanarnholt.github.io/))
-
-* [The Bootstrap](../STT3851ClassRepo/Rmarkdown/TheBootstrap.html) (via [Alan Arnholt](https://alanarnholt.github.io/))
-
 
 * * *
