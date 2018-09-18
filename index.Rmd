@@ -2,15 +2,14 @@
 title: "Welcome!"
 ---
 
-* * *
+<hr>
 
-* [Course Syllabus](./Syllabus/SyllabusS2018.html)
+* [Course Syllabus](./Syllabus/SyllabusF2018.html)
 
-* [Course Schedule](./Schedule/ScheduleS2018.html)
+* [Course Schedule](./Schedule/ScheduleF2018.html)
 
 * [ASU RStudio Server](https://mathr.math.appstate.edu)
 
-* Your course grades and all [DataCamp](https://www.datacamp.com/home) assignments should be accessed via [AsULearn](https://asulearn.appstate.edu/).
+* Your grades and additional course information/resources can be found on [AsULearn](https://asulearn.appstate.edu/).
 
-
-* * *
+<hr>

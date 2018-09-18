@@ -1,5 +1,5 @@
 ---
-title: "STT 3500 Intermediate Statistical Graphing<br>Course Syllabus for Spring 2018"
+title: "STT 3500 Intermediate Data Visualization in R<br>Course Syllabus for Fall 2018"
 output: 
   html_document: 
     theme: cosmo
@@ -19,16 +19,16 @@ You can [book me online](https://thomleyje.youcanbook.me/) for an appointment du
 
 **Course Description:**  
 
-This course expands on the student's introductory knowledge of R programming, data analysis, and  statistical graphing, primarily using theR package ggplot2, which is "a plotting system for R, based on the grammar of graphics, which tries to take the good parts of base and lattice graphics and none of the bad parts. It...provid[es] a powerful model of graphics that makes it easy to produce complex multi-layered graphics." (http://ggplot2.org/). Both R and ggplot2 are becoming the standard within statistics, especially for those interested in reproducible research, transparency, and robustness. The course will review familiar plots from introductory classes and then introduce students to a variety of other types of plots that are not commonly encountered in introductory courses. 
+This course expands on the student's existing knowledge of R programming, data analysis, and  statistical visualization using R packages such as ggplot2, which is "a plotting system for R, based on the grammar of graphics, which tries to take the good parts of base and lattice graphics and none of the bad parts. It...provid[es] a powerful model of graphics that makes it easy to produce complex multi-layered graphics." R is becoming a standard in statistics and data science, especially for those interested in reproducible research, transparency, and robustness. The student also will explore some discipline specific applications in GIS. 
 
 
 **Course Objectives:**
 
-Students will...
+The student will...
 
-(1) learn to create professional-quality statistical graphics in R, using ggplot2.
-(2) compare and contrast graphs from ggplot2 to graphics created using base R code.
-(3) create a portfolio of examples in R Markdown that they can use in future educational or professional settings. 
+(1) learn more about creating and customizing a variety professional-quality data visualizations in R, using ggplot2 and other packages,
+(2) create a portfolio of graphical examples in R Markdown that they can then use in future educational or professional settings, and
+(3) explore more deeply the kinds of vusializations used in his major discipline, particularly GIS.
 
 
 **Course Text and References:**
@@ -44,19 +44,16 @@ Students will...
 The only way to learn statistics is to **DO** statistics, which includes statistical software. Reading the textbook, learning the language, and practicing exercises using real data are critical to your learning and success. Class activities and assessments have been structured with these principles in mind. It will be easier to participate if you acquire some familiarity with the vocabulary and methods before we start to discuss and use them. You must "speak the language" (statistics and R) to effectively demonstrate your knowledge.  
 
 *  60% of the course grade will come from the twelve textbook assignments (5% each)
-*  16% of the course grade will come from the four introductory DataCamp modules (4% each)
-     + Data Visualization in R
-     + Data Visualizatin with ggplot2 (Part 1)
-     + Data Visualizatin with ggplot2 (Part 2)
-     + Data Visualizatin with ggplot2 (Part 3)
-*  24% of the course grade will come from the three "project" DataCamp modules (8% each)
-     + Communicating with Data in the Tidyverse
-     + Visualizing Time Series Data in R
+*  20% of the course grade will come from the three "project" DataCamp modules (5% each)
+     + Data Visualization in R with `ggvis`
      + Working with Geospatial Data in R
-
+     + Interactive Maps with leaflet in R
+     + Visualizing Time Series Data in R
+*  20% of the course grade will come from the student-designed visualization project
+     
 This course uses the standard 10-point +/- grading scale (93--100 = A, 90--92 = A--, 87--89 = B+, etc.). All grades will be kept on [AsULearn](https://asulearn.appstate.edu/). You should monitor your grades throughout the term to make sure they appear to be correct and complete. Feel free to inquire about your grades at any time.
 
-The [Course Schedule](../CoursePacing/CoursePacingS2018.html) contains all assignments and due dates.
+The [Course Schedule](../CoursePacing/CoursePacingF2018.html) contains all assignments and due dates.
 
 
 **Computers and Software**

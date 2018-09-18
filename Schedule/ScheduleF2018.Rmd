@@ -1,0 +1,120 @@
+---
+title: "STT 3500 Intermediate Data Visualization in R<br>Course Schedule for Spring 2018"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+    css: "../css/style.css"
+---
+
+<hr>
+
+```{block, note-text, type='rmdnote'}
+* You do not need to purchase a text for this course.
+* Assignments are due @ 11pm Sunday unless otherwise indicated.
+* See AsULearn for _R Graphics Cookbook_ templates and other materials.
+```
+
+You should already have completed the following [DataCamp](https://datacamp.com) courses.
+
+* [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
+* [Data Visualizatin with `ggplot2` (Part 1)](https://www.datacamp.com/courses/data-visualization-with-ggplot2-1)
+* [Data Visualizatin with `ggplot2` (Part 2)](https://www.datacamp.com/courses/data-visualization-with-ggplot2-2)
+* [Data Visualizatin with `ggplot2` (Part 3)](https://www.datacamp.com/courses/data-visualization-with-ggplot2-part-3)
+* [Communicating with Data in the Tidyverse](https://www.datacamp.com/courses/communicating-with-data-in-the-tidyverse)
+
+
+## Week 01 (Aug 20)
+
+* N/A
+
+
+## Week 02 (Aug 27)
+
+* N/A
+
+
+## Week 03 (Sep 03)
+
+* N/A
+
+
+## Week 04 (Sep 10)
+
+* N/A
+
+
+## Week 05 (Sep 17)
+
+* Complete and submit the compiled `HTML` for Chapter 02 in _[R Graphics Cookbook](http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate)_.
+* Complete and submit the compiled `HTML` for Chapter 03 in _[R Graphics Cookbook](http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate)_.
+
+
+## Week 06 (Sep 24)
+
+* Complete and submit the compiled `HTML` for Chapter 04 in _[R Graphics Cookbook](http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate)_.
+* Complete and submit the compiled `HTML` for Chapter 05 in _[R Graphics Cookbook](http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate)_.
+
+
+## Week 07 (Oct 01)
+
+* Complete and submit the compiled `HTML` for Chapter 06 in _[R Graphics Cookbook](http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate)_. 
+* Complete and submit the compiled `HTML` for Chapter 07 in _[R Graphics Cookbook](http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate)_.
+
+
+## Week 08 (Oct 08)
+
+* Complete and submit the compiled `HTML` for Chapter 08 in _[R Graphics Cookbook](http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate)_.
+* Fall Break 10/11 and 10/12
+
+
+## Week 09 (Oct 15)
+
+* Complete and submit the compiled `HTML` for Chapter 09 in _[R Graphics Cookbook](http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate)_.
+* Complete and submit the compiled `HTML` for Chapter 10 in _[R Graphics Cookbook](http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate)_.
+
+
+## Week 10 (Oct 22)
+
+* Complete and submit the compiled `HTML` for Chapter 11 in _[R Graphics Cookbook](http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate)_.
+* Complete and submit the compiled `HTML` for Chapter 12 in _[R Graphics Cookbook](http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate)_.
+
+
+## Week 11 (Oct 29)
+
+* Complete and submit the compiled `HTML` for Chapter 13 in _[R Graphics Cookbook](http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate)_.
+* Complete the _Data Visualization in R with `ggvis`_ course on [DataCamp](https://www.datacamp.com/courses/ggvis-data-visualization-r-tutorial).
+
+
+## Week 12 (Nov 05)
+
+* Complete _Working with Geospatial Data in R_ on [DataCamp](https://www.datacamp.com/courses/working-with-geospatial-data-in-r).
+* Complete _Interactive Maps with leaflet in R_ on [DataCamp](https://www.datacamp.com/courses/interactive-maps-with-leaflet-in-r).
+
+
+## Week 13 (Nov 12)
+
+* Complete _Visualizing Time Series Data in R_ on [DataCamp](https://datacamp.com), via [AsULearn](https://asulearn.appstate.edu).
+* Create an R Markdown report that generates the case study plots using `ggplot2`.
+
+
+## Week 14 (Nov 19)
+
+* Work on project
+* Thanksgiving 11/21, 11/22, and 11/23
+
+
+## Week 15 (Nov 26)
+
+* Work on project
+
+
+## Week 16 (Dec 03)
+
+* Work on project
+* Classes end 12/05
+
+
+## Your independent study course is complete!
