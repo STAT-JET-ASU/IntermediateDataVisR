@@ -2,7 +2,7 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "Intermediate Statistical Graphing"
+  title: "Intermediate Data Visualization in R"
   left:
     - text: "My Schedule"
       href: https://jillthomley.github.io/schedule.html
