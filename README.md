@@ -1,4 +1,4 @@
-# IntermediateStatisticalGraphing
+# Intermediate Data Visualization in R
 
 Independent study using *R Graphics CookBook* by Winston Chang 
 
