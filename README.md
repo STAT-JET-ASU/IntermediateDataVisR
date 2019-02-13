@@ -1,6 +1,6 @@
 # Intermediate Data Visualization in R
 
-Independent study using *R Graphics CookBook* by Winston Chang 
+Independent study course using *R Graphics CookBook* by Winston Chang 
 
 S2018: Course for three mathematics (with statistics concentration) majors ([syllabus](https://stat-jet-asu.github.io/IntermediateDataVisR/Syllabus/SyllabusS2018.html) and [schedule](https://stat-jet-asu.github.io/IntermediateDataVisR/Schedule/ScheduleS2018.html))
 
