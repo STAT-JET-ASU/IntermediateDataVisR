@@ -9,12 +9,6 @@ output:
     css: "../css/style.css"
 ---
 
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  TeX: { equationNumbers: { autoNumber: "AMS" } }
-});
-</script>
-
 <hr>
 
 ```{block, note-text, type='rmdnote'}
@@ -33,7 +27,7 @@ MathJax.Hub.Config({
  
 ## Week 02 (Jan 22) {-}
 
-* Complete _Data Visualizatin with `ggplot2` (Part 1)_ on [DataCamp](https://datacamp.com), via [AsULearn](https://asulearn.appstate.edu).
+* Complete _Data Visualization with `ggplot2` (Part 1)_ on [DataCamp](https://datacamp.com), via [AsULearn](https://asulearn.appstate.edu).
 * Complete and submit the compiled `HTML` for Chapter 02 in _[R Graphics Cookbook](http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate)_.
 
 

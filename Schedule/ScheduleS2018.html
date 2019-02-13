@@ -92,8 +92,14 @@ img {
 .tabbed-pane {
   padding-top: 12px;
 }
+.html-widget {
+  margin-bottom: 20px;
+}
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -102,14 +108,74 @@ button.code-folding-btn:focus {
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
 });
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
 </script>
 
 <!-- code folding -->
-
 
 
 
@@ -121,16 +187,11 @@ $(document).ready(function () {
 
 <h1 class="title toc-ignore">STT 3500 Intermediate Statistical Graphing<br>Course Schedule for Spring 2018</h1>
 <h4 class="author"><em>Instructor: Jill E. Thomley (<a href="mailto:thomleyje@appstate.edu">thomleyje@appstate.edu</a>)</em></h4>
-<h4 class="date"><em>Updated: Thursday, April 05, 2018 @ 05:52:58 PM</em></h4>
+<h4 class="date"><em>Updated: Wednesday, February 13, 2019 @ 01:04:34 PM</em></h4>
 
 </div>
 
 
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  TeX: { equationNumbers: { autoNumber: "AMS" } }
-});
-</script>
 <hr>
 <div class="rmdnote">
 <ul>
@@ -157,7 +218,7 @@ Please let the instructor know if you have previously completed any of the DataC
 <div id="week-02-jan-22" class="section level2 unnumbered">
 <h2>Week 02 (Jan 22)</h2>
 <ul>
-<li>Complete <em>Data Visualizatin with <code>ggplot2</code> (Part 1)</em> on <a href="https://datacamp.com">DataCamp</a>, via <a href="https://asulearn.appstate.edu">AsULearn</a>.</li>
+<li>Complete <em>Data Visualization with <code>ggplot2</code> (Part 1)</em> on <a href="https://datacamp.com">DataCamp</a>, via <a href="https://asulearn.appstate.edu">AsULearn</a>.</li>
 <li>Complete and submit the compiled <code>HTML</code> for Chapter 02 in <em><a href="http://proquest.safaribooksonline.com.proxy006.nclive.org/9781449363086?uicode=appstate">R Graphics Cookbook</a></em>.</li>
 </ul>
 </div>
